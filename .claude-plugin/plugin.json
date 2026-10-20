@@ -1,0 +1,13 @@
+{
+  "name": "claude-site-audit",
+  "description": "Audit websites for SEO, accessibility, GEO (Generative Engine Optimization), and AI search readiness. Produces a client-ready PDF report with a letter grade, scorecard, and prioritized fix recommendations.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rob Spence",
+    "url": "https://github.com/rjspence3"
+  },
+  "homepage": "https://github.com/rjspence3/claude-site-audit",
+  "repository": "https://github.com/rjspence3/claude-site-audit",
+  "license": "MIT",
+  "category": "development"
+}
